@@ -1,0 +1,5 @@
+*.exe
+*.lnk
+*.zip
+.github/image/demo.mp4
+.vscode/
