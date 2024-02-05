@@ -1,4 +1,4 @@
-![Scratch Helper](img\logo_sm.png)
+![Scratch Helper](../img/logo_sm.png)
 
 # Scratch Helper：Solve Scratch Japanese environment problem
 # Scratchの日本語環境での問題を解決
