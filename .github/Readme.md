@@ -1,9 +1,19 @@
+![Windows](https://img.shields.io/badge/Windows-1BB2E4?logo=windows&logoColor=white)
+![AutoHotKey](https://img.shields.io/badge/Autohotkey-v1.1-green?logo=autohotkey)
+![GitHub License](https://img.shields.io/github/license/programneko/ScratchHelper)
+![GitHub Release](https://img.shields.io/github/v/release/programneko/ScratchHelper)
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/programneko/ScratchHelper)
+[![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/programneko/ScratchHelper/latest/ScratchHelper.zip)](https://github.com/programneko/ScratchHelper/releases/latest/download/ScratchHelper.zip)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20programneko)](https://github.com/programneko)
+
+
+
 ![Scratch Helper](../img/logo_sm.png)
 
 ### Scratch Helper：Solve Scratch Japanese environment problem
 ## Scratchの日本語環境での問題を解決
 
-<img src="image/ahk_logo_no_text.svg" width="100">
+<!-- <img src="image/ahk_logo_no_text.svg" width="100"> -->
 
 ## 概要
 Scratchのブロックに数字を入力したとき、誤って全角で入力してしまうとScratchのコードが思ったように動作しません。この問題の解決を支援するアプリです。
